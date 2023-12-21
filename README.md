@@ -8,4 +8,4 @@
 * Praktikum 2 : Operator `redo-praktikum-c2.py`
 * Praktikum 3 : Rangkaian Karakter (String) `redo-praktikum-c3.py`
 * Praktikum 4 : Pengenalan Variabel `redo-praktikum-c4.py`
-* Praktikum 5 : Pengulangan While
+* Praktikum 5 : Pengulangan While `redo-praktikum-c5.py`
